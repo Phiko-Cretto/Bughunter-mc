@@ -1,0 +1,18 @@
+Text:
+    Item:
+        Lore1: '&7This Item is a speciel and limit item'
+        Lore2: '&7Gived by: &4&l'
+
+    smallItemName: '&3&lSmall &aBug Hunter'
+    mediumItemName: '&1&lMedium &aBug Hunter'
+    bigItemName: '&5&lBig &aBug Hunter'
+    noPlayer: '&4Write a player.'
+    notExistPlayer: '&4Player &rnot exist.'
+    choose: '&4You need to choose: &aSmall&4, &aMedium &4or &aBig.'
+    nochoose: '&4It need to be &aSmall&4, &aMedium &4or &aBig.'
+
+#Do NOT use Color code in commandName.
+commandName:
+    Small: 'small'
+    Medium: 'medium'
+    Big: 'big'

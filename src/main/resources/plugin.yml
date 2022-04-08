@@ -1,0 +1,10 @@
+name: Bughunter
+version: 1.0
+description: A plugin made to cubeawesome
+main: me.phiko.bughunter.Main
+
+commands:
+  bughunter:
+    description: Bug Hunter
+    permission: CubeAwesome.bughunter
+    permission-message: You do not have permission to use this command.
